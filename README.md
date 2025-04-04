@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">ML Engineer from Algeria, specializing in generative AI, custom LLMs, and scalable AI solutions. Skilled in RAG models, custom AI agents, and prompt engineering, I deliver impactful, industry-specific applications and automated pipelines. Known for quickly mastering new technologies and collaborating effectively across teams, I am dedicated to leveraging and expanding my skills to drive impactful, versatile contributions in AI-driven projects.</h3>
+<h1 align="center">Hi, I'm Ryan.</h1>
+<h3 align="center">AI Engineer from Algeria, specializing in generative AI, custom LLMs, and scalable AI solutions. Skilled in RAG models, custom AI agents, and prompt engineering, I deliver impactful, industry-specific applications and automated pipelines. Known for quickly mastering new technologies and collaborating effectively across teams.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bry1ni" alt="bry1ni" /></a> </p>
 
